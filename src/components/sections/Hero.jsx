@@ -27,7 +27,6 @@ export const Hero = () => (
           alt="Yellow circle" 
           className="hero__circle"
         />
-
       </div>
       
       <Button variant="primary">ABOUT US</Button>

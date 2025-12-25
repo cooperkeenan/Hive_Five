@@ -10,7 +10,7 @@ export const Contact = () => (
       <p className="contact__text">
         start your journey in the music industry today
       </p>
-      <p className="contact__email">hey@hivefivemgmt.com</p>
+      <p className="contact__email">honey@hivefivemgmt.com</p>
       <div className="contact__buttons">
         <Button variant="primary">LINK</Button>
         <Button variant="primary">INSTA</Button>

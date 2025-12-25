@@ -69,7 +69,7 @@ body {
 
 .hero__nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   padding: var(--spacing-sm) 0;
 }
@@ -142,7 +142,7 @@ body {
   position: relative;
   width: 100%;
   max-width: 320px;
-  margin: var(--spacing-lg) 0;
+  margin: var(--spacing-lg) 0 6rem 0;
 }
 
 .hero__circle {
@@ -237,8 +237,8 @@ body {
 
 .recruitment__image-wrapper {
   position: relative;
-  width: 41vw;
-  max-width: 50vw;
+  width: 28vw;
+  max-width: 100vw;
   margin-left: calc(-1 * var(--spacing-md));
   margin-right: calc(-1 * var(--spacing-md));
   margin-bottom: var(--spacing-md);
